@@ -16,20 +16,6 @@ and **Sentence Transformers**, exposing a simple **FastAPI** interface.
 
 ---
 
-## Project Structure
-
-```
-.
-├── main.py
-├── sqlite_vec_search.py
-├── util.py
-├── test.py
-├── requirements.txt
-└── db.sqlite3
-```
-
----
-
 ## Installation
 
 ```bash
